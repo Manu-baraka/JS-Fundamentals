@@ -3,6 +3,6 @@ function add(a, b){
 }
 
 const first = parseInt(process.argv[2]);
-const second = parseInt(ProcessingInstruction.argv[3]);
+const second = parseInt(Process.argv[3]);
 
 console.log(add(first, second));
